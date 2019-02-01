@@ -1,0 +1,9 @@
+site_name: DroneDeploy на русском
+site_url: https://dronedeploy.roboflot.ru
+google_analytics: ['UA-', 'dronedeploy.roboflot.ru']
+nav:
+- Home: index.md
+- About: test.md
+theme:
+  name: 'material'
+lang: ['ru']
